@@ -1,12 +1,10 @@
 # LiteBank
 Preparing raspiblitz to run Galoy Lite Instance for newbies
 
-
 # Hardware Required
 Laptop, PC or Mac with 8gb RAM, processor amd or intel 4+ cores
 Data Drive - 1TB  SSD 
 OS Drive - 32gb USB SSD or SD Enduranceor Sandisk Extreme Pro (if computer has SDcard reader and can boot from it)
-
 
 # LiteBank Steps by Step 1
 1 - Download the image of the operating base system. Debian Desktop Lininux
