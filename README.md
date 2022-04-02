@@ -2,10 +2,8 @@
 Preparing raspiblitz to run Galoy Lite Instance for newbies
 
 
-#Hardware Required
+# Hardware Required
 Laptop, PC or Mac with 8gb RAM, processor amd or intel 4+ cores
-
-#Requirements for PC Instalation
 Data Drive - 1TB  SSD 
 OS Drive - 32gb USB SSD or SD Enduranceor Sandisk Extreme Pro (if computer has SDcard reader and can boot from it)
 
